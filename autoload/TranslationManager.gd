@@ -8,6 +8,7 @@ const PO_EXTENSION := "po"
 const DEFAULT_LOCALE := "en"
 const SUPPORTED_LOCALES := [
 	"en",
+	"de",
 	"es",
 	"it",
   "fr",
